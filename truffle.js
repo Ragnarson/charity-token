@@ -6,7 +6,7 @@ require('babel-node-modules')([
 
 const HDWalletProvider = require('truffle-hdwallet-provider')
 const infuraToken = process.env.INFURA_TOKEN
-const mnemonic = process.env.WALLET_MNEMONIC
+const mnemonic = process.env.DEPLOYMENT_WALLET_MNEMONIC
 
 module.exports = {
   solc: {
