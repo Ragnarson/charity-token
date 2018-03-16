@@ -1,12 +1,12 @@
-require('babel-register');
-require('babel-polyfill');
+require('babel-register')
+require('babel-polyfill')
 require('babel-node-modules')([
   'zeppelin-solidity'
 ])
 
-const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraToken = process.env.INFURA_TOKEN;
-const mnemonic = process.env.WALLET_MNEMONIC;
+const HDWalletProvider = require('truffle-hdwallet-provider')
+const infuraToken = process.env.INFURA_TOKEN
+const mnemonic = process.env.WALLET_MNEMONIC
 
 module.exports = {
   solc: {
@@ -24,7 +24,7 @@ module.exports = {
     testrpc: {
       host: 'localhost',
       port: 8545,
-      network_id: '*',
+      network_id: '*'
     },
     ropsten: {
       provider: function () {
@@ -40,4 +40,4 @@ module.exports = {
       network_id: 1
     }
   }
-};
+}
