@@ -1,5 +1,5 @@
 const CharityToken = artifacts.require('CharityToken')
 
-module.exports = async function(deployer, network) {
+module.exports = function(deployer, network) {
   deployer.deploy(CharityToken)
 }
