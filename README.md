@@ -4,7 +4,7 @@
 
 ```
 npm install
-bin/test
+npm test
 ```
 
 ## Deploying

@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "bin/test"
+    "test": "eslint . && bin/test"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +24,13 @@
     "babel-preset-stage-2": "^6.24.1",
     "babel-preset-stage-3": "^6.24.1",
     "babel-register": "^6.26.0",
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-mocha": "^4.12.1",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1",
     "ganache-cli": "^6.1.0",
     "solc": "^0.4.21",
     "solidity-coverage": "^0.4.11",
