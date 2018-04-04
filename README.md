@@ -1,6 +1,6 @@
 # Charity Token
 
-The Charity Token is an Ethereum-based, ERC20 compliant token issued for collecting funds for charities. The initial goal of the project is to give donors an possibility to transfer Ether for one closer specified organisation and issue tokens in return. In a later stage, the issued Charity Token will be used to choose on charity organisations that should be supported.
+The Charity Token is an Ethereum-based, ERC20 compliant token issued for collecting funds for charities. The initial goal of the project is to give donors a possibility to transfer Ether for one closer specified organisation and issue tokens in return. In a later stage, the issued Charity Token will be used to choose on charity organisations that should be supported.
 
 ## Mission and purpose
 
