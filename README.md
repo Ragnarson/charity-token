@@ -1,6 +1,20 @@
 # Charity Token
 
-The Charity Token is an Ethereum-based, ERC20 compliant token issued for collecting funds for charities. The initial goal of the project is to give donors an possibility to transfer Ether for one closer specified organisation and issue tokens in return. In a later stage, the issued Charity Token will be used to choose on charity organisations that should be supported.
+The Charity Token is an Ethereum-based, ERC20 compliant token issued for collecting funds for charities. The initial goal of the project is to give donors a possibility to transfer Ether for one closer specified organisation and issue tokens in return. In a later stage, the issued Charity Token will be used to choose on charity organisations that should be supported.
+
+## Mission and purpose
+
+The Charity Token is inspired by The Pineapple Fund which is a philanthropic project. An anonymous individual founded it in December 2017 in order to give away 5,057 Bitcoins to charity.
+
+Many people in the crypto industry got rich over the recent years. We think many of them would like to share their prosperity with those in need.
+
+Our goal is to create an easy and trustless crypto-based way to donate charities. We want to create a solution that will be of use anytime someone in crypto space feels like to make an impact.
+
+Charity Token is a universal way to do something good to others. We don't want to make donators think which organisation they are supposed to support. We want to make them sure that their assets are spent for a good cause and make a positive impact on our society.
+
+Our final vision is to create an always on-going ICO for Charity Token. The token will be supported by a decentralized governance mechanism. It will allow token holders to decide which organisation should be supported with collected funds. We invite the entire crypto community to a discussion on this governance mechanism and designing its framework.
+
+Our first iteration (currently in progress) supports just one organisation chosen by us. We decided to begin with this baby step to show it is not mere talking, but actions. Here we would like to start a discussion about a final version of the governance protocol.
 
 ## Running tests
 
